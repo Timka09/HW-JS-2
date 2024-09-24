@@ -32,7 +32,13 @@ const wholeNumber = "67";
 const numbers = Number.parseInt(wholeNumber);
 console.log(wholeNumber);
 // Task 8
-const squareRoot = 49
-const root = Math.sqrt(squareRoot)
-console.log(root)
+const squareRoot = 49;
+const root = Math.sqrt(squareRoot);
+console.log(root);
 // Task 9 
+const number1 = 15;
+const numberExchenge = number1.toString()
+console.log(numberExchenge);
+const number2 = "15.454px";
+const numberTranslate = Number.parseInt(number2)
+console.log(numberTranslate);
